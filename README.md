@@ -7,13 +7,26 @@ Nascido e criado no Espirito Santo (Brasil) Tive uma base familiar muito forte e
 
 <h2>Hobbies</h2>
 <ul>
-  <li>Viajar com minha Familia</li>
-  <li>surfa</li>
-  <li>futebol</li>
+  <li>Curti em Familia</li>
+  <li>Surfa</li>
+  <li>Futebol</li>
 </ul>
-
-<br>
 
 <h2>Objetivo</h2>
 
 <p>É publicar todos meus projetos sendo eles publicos ou privados para meu desenvolvimento pessoal e apredizagem continua.</p>
+
+
+<h2>Metas</h2>
+
+<ol>
+  <li>Idioma do Italiano (Duolingo)</li>
+  <li>Idiona do inglês (Duolingo)</li>
+  <li>Atividades no APP (Mimo)</li>
+  <li>Lógica de programação (Livro)</li>
+  <li>Cursos</li>
+  <li>Certificados</li>
+</ol>
+
+<h2>Observação</h2>
+<p>Para você que quer me acompalhar de perto  no meu desenvolvimento diário vou estar publicando támbem no Linkedin minhas metas diárias.</p>
