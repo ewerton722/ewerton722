@@ -31,5 +31,5 @@ Nascido e criado no Espirito Santo (Brasil) Tive uma base familiar muito forte e
 <h2>Observação</h2>
 <p>Para você que quer me acompalhar de perto  no meu desenvolvimento diário vou estar publicando támbem no Linkedin minhas metas diárias.</p>
 
-<h2>Rede socia</h2>
+<h2>Rede social</h2>
 
