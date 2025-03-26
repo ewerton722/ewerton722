@@ -32,5 +32,4 @@ Nascido e criado no Espirito Santo (Brasil) Tive uma base familiar muito forte e
 <p>Para você que quer me acompalhar de perto  no meu desenvolvimento diário vou estar publicando támbem no Linkedin minhas metas diárias.</p>
 
 <h2>Rede socia</h2>
-< a href = "www.linkedin.com/in/ewerton-de-souza-gonçalves-54265526b">teste</a>
 
