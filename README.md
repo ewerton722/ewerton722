@@ -33,4 +33,4 @@ Nascido e criado no Espirito Santo (Brasil) Tive uma base familiar muito forte e
 
 <h2>Rede social</h2>
 
-<a href="https://www.linkedin.com/feed/"></a>
+<a href="https://www.linkedin.com/feed/">teste</a>
