@@ -33,4 +33,4 @@ Nascido e criado no Espirito Santo (Brasil) Tive uma base familiar muito forte e
 
 <h2>Rede social</h2>
 
-<a href="https://www.linkedin.com/feed/">teste</a>
+<a href="https:https://www.linkedin.com/in/ewerton-de-souza-gon%C3%A7alves-54265526b/">teste</a>
