@@ -29,7 +29,7 @@ Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e
 </ol>
 
 <h2>Observação</h2>
-<p>Para você que quer me acompalhar de perto  no meu desenvolvimento diário vou estar publicando támbem no Linkedin minhas metas diárias.</p>
+<p>Vou estar publicando também no Linkedin meu desenvolvimento diário, com minhas metas diárias e mensais. .</p>
 
 <h2>Rede social</h2>
 
