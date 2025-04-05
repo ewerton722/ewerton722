@@ -7,8 +7,8 @@ Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e
 
 <h2>Hobbies</h2>
 <ul>
-  <li>Curti em Familia</li>
-  <li>Surfa</li>
+  <li>Curtir em Familia</li>
+  <li>Surfar</li>
   <li>Futebol</li>
 </ul>
 
@@ -20,8 +20,8 @@ Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e
 <h2>Metas</h2>
 
 <ol>
-  <li>Idioma do Italiano (Duolingo)</li>
-  <li>Idioma do inglês (Duolingo)</li>
+  <li>Idioma do Italiano</li>
+  <li>Idioma do inglês</li>
   <li>Atividades no APP (Mimo)</li>
   <li>Lógica de programação (Livro)</li>
   <li>Cursos</li>
