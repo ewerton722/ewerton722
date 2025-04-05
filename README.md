@@ -21,7 +21,7 @@ Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e
 
 <ol>
   <li>Idioma do Italiano (Duolingo)</li>
-  <li>Idiona do inglês (Duolingo)</li>
+  <li>Idioma do inglês (Duolingo)</li>
   <li>Atividades no APP (Mimo)</li>
   <li>Lógica de programação (Livro)</li>
   <li>Cursos</li>
