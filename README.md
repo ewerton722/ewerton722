@@ -1,6 +1,6 @@
 <h1>Olá Bem vindo ao meu perfil!</h1>
 
-<p>Me chamo Ewerton de Souza Gonçalves, tenho 24 anos e sou programador Front-end(Jr).Nascido  e criado no Espirito santo (Brasil), tenho como minha principal base, Deus e minha linda família.
+<p>Me chamo Ewerton de Souza Gonçalves, tenho 24 anos e sou programador Front-end(Jr). Nascido  e criado no Espirito santo (Brasil), tenho como minha principal base, Deus e minha linda família.
 Estudando e me aprimorando, tenho com objetivo me tornar um programador Full Stack.</p> 
 
 
