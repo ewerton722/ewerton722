@@ -38,4 +38,4 @@ Venha participar da minha evolução.</p>
 
 <h2>Rede social</h2>
 
-<a href="https://www.linkedin.com/in/ewerton-de-souza-gon%C3%A7alves-722dev/">Linkedin</a>
+<a href="https://www.linkedin.com/in/ewerton-souza-892154280/">Linkedin</a>
