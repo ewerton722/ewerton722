@@ -1,8 +1,10 @@
 <h1>Olá Bem vindo ao meu perfil!</h1>
 
-<p>Deixe-me apresentar melhor, me chamo Ewerton de Souza Gonçalves, tenho 24 anos e sou programador Front-end (Jr) e tenho como o objetivo de me tornar um programador full stack. 
-Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e isso agradeço a Deus pela linda familia que ele me concedeu.
-</p> 
+<p>Me chamo Ewerton de Souza Gonçalves, tenho 24 anos e sou programador Front-end(Jr).
+
+Nascido  e criado no Espirito santo (Brasil), tenho como minha principal base, Deus e minha linda família.
+
+Estudando e me aprimorando, tenho com objetivo me tornar um programador Full Stack.</p> 
 
 
 <h2>Hobbies</h2>
@@ -29,7 +31,10 @@ Nascido e criado no Espirito Santo (Brasil) tive uma base familiar muito forte e
 </ol>
 
 <h2>Observação</h2>
-<p>Vou estar publicando também no Linkedin meu desenvolvimento diário, com minhas metas diárias e mensais. .</p>
+<p>Vou estar publicando também no Linkedin meu minhas metas diárias e mensais.
+<br>
+
+Venha participar da minha evolução.</p>
 
 <h2>Rede social</h2>
 
