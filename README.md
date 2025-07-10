@@ -14,18 +14,6 @@
 
 <p>É publicar todos meus projetos sendo eles publicos ou privados para meu desenvolvimento pessoal e apredizagem continua.</p>
 
-
-<h2>Metas</h2>
-
-<ol>
-  <li>Idioma do Italiano</li>
-  <li>Idioma do inglês</li>
-  <li>Atividades no APP (Mimo)</li>
-  <li>Lógica de programação (Livro)</li>
-  <li>Cursos</li>
-  <li>Certificados</li>
-</ol>
-
 <h2>Observação</h2>
 <p>Vou estar publicando também no Linkedin meu minhas metas diárias e mensais.
 <br>
